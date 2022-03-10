@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ToDoList" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/buttomColor</item>
+        <item name="colorPrimaryDark">@color/darkPrimary</item>
+
+        <item name="colorSecondary">@color/buttomColor</item>
+        <item name="colorOnSecondary">@color/white</item>
+    </style>
+</resources>
